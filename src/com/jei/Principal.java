@@ -1,3 +1,5 @@
+package com.jei;
+
 public class Principal {
     public static void main(String[] args) {
 
