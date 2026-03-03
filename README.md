@@ -1,6 +1,6 @@
 # 💱 ConversorMonedas
 
-![Java](https://img.shields.io/badge/Java-17+-blue)
+![Java](https://img.shields.io/badge/Java-21+-blue)
 ![Status](https://img.shields.io/badge/Status-Activo-success)
 ![API](https://img.shields.io/badge/API-ExchangeRate-orange)
 
